@@ -1,0 +1,34 @@
+﻿  AI.c
+  Assets.c
+  bouton.c
+  Common.c
+  Game.c
+  Input.c
+  main.c
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(282,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(283,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(289,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(290,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(296,53): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(297,53): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(364,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(365,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(371,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(372,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(378,53): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(379,53): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(449,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(450,51): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(456,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(457,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(463,53): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\main.c(464,53): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Timer.c
+  Génération de code en cours
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\bouton.c(361): warning C4716: 'MenuIcon' : doit retourner une valeur
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\bouton.c(318): warning C4715: 'Colone' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\BasecodeSDL\bouton.c(172): warning C4715: 'BeginPage' : les chemins de contrôle ne retournent pas tous une valeur
+  All 50 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  BasecodeSDL.vcxproj -> C:\Users\acart\Bureau\Code\Cartelot_Dumond\Cartelot_Dumond\x64\Release\BasecodeSDL.exe
